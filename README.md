@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://kodluyoruz.org) GIT eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html dosyası barındırıyor.
 
-![ScreenShot of Repo](https://imgur.com/a/fwTWhp9)
+![Screenshot of my repo](https://www.upload.ee/image/14525358/Screen_Shot_2022-09-24_at_11.43.29.png)
 
 ## Installation
 
